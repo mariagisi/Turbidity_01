@@ -1,0 +1,31 @@
+List of Materials
+Below we present two lists, one (Electrical Components) with the necessary electronic components needed to build the sensor and the second (Recommended Materials) the materials we believe one should have in hand in order to easily assemble the system.
+Electrical Components	
+Designator	Component	Number
+Turbidity sensor	SEN0189	1
+Emitting LED	QEE113 LED	1
+Receiving LED	TEKT5400S Phototransistor	1
+Temperature sensor	DS18B20	1
+Development card	MKR WAN 1310	1
+Digital to Analog converter	ADS1115 i2C PGA digital to analog converter	1
+Shield SD	Module SD MKR Mem Shield	1
+MicoSD card	MicoSD card 16GB	1
+Battery	Battery LiPo, 3,7 Vcc 4000mAh	1
+Clock battery	Lithium LiR2032 Battery	1
+Battery module	Card Lipo rider pro	1
+5 wire cables	PVC cable with 5 wires 	2m
+2 wire cable	2 wire cable for solar panel	20m
+Cable glands	Waterproof cable glands for 5-10mm cable	3
+Silica packs	10g packs of silica gel	2
+Sensor housing	Ultimaker PETG filament for 3D printing	122g
+
+
+Recommended Materials
+o	Breadboard – for creating temporary circuits without soldering.
+o	Soldering iron and solder – for permanent connections.
+o	Jumper wires – to connect different components on the breadboard.
+o	Screwdriver set – for assembling and securing components.
+o	Electrical tape – to insulate exposed wires or connections.
+o	Cutting tools (e.g., wire cutters, scissors) – for trimming wires and materials.
+
+
